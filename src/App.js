@@ -8,7 +8,7 @@ function App() {
     <div className="padre">
       <div className="main">
         <header>
-          <p>useState Hook Test</p>
+          <p>useState Hook Test for GIT</p>
         </header>
         <div className="display">
           <p>{count}</p>
